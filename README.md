@@ -4,17 +4,9 @@ Generate professional HTML single-file presentations with a Vercel/Apple dark mo
 
 ## Installation
 
-### Option 1: Add Marketplace (Recommended)
-
 ```bash
-/plugin marketplace add YOUR_USER/presentation-plugin
+/plugin marketplace add Eduardo-Barreto/presentation-plugin
 /plugin install presentation@presentation-tools
-```
-
-### Option 2: Direct Install
-
-```bash
-/plugin install --plugin-dir /path/to/presentation-plugin
 ```
 
 ## Usage
