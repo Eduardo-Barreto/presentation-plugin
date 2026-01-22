@@ -2,6 +2,8 @@
 
 Generate professional HTML single-file presentations with a Vercel/Apple dark mode aesthetic.
 
+![Demo](assets/demo.gif)
+
 ## Installation
 
 ```bash
@@ -14,6 +16,8 @@ Generate professional HTML single-file presentations with a Vercel/Apple dark mo
 ```bash
 /presentation:presentation "Your topic here"
 ```
+
+![Prompt example](assets/prompt.png)
 
 With options:
 
