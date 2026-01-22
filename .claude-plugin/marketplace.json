@@ -1,0 +1,12 @@
+{
+  "name": "presentation-tools",
+  "owner": {
+    "name": "Eduardo-Barreto"
+  },
+  "plugins": [
+    {
+      "name": "presentation",
+      "source": "."
+    }
+  ]
+}

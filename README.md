@@ -5,7 +5,8 @@ Generate professional HTML single-file presentations with a Vercel/Apple dark mo
 ## Installation
 
 ```bash
-/plugin install Eduardo-Barreto/presentation-plugin
+/plugin marketplace add Eduardo-Barreto/presentation-plugin
+/plugin install presentation@presentation-tools
 ```
 
 ## Usage
