@@ -14,7 +14,7 @@ Generate professional HTML single-file presentations with a Vercel/Apple dark mo
 ## Usage
 
 ```bash
-/presentation:presentation "Your topic here"
+/presentation "Your topic here"
 ```
 
 ![Prompt example](assets/prompt.png)
@@ -22,7 +22,7 @@ Generate professional HTML single-file presentations with a Vercel/Apple dark mo
 With options:
 
 ```bash
-/presentation:presentation "Introduction to Rust" 6 slides dark en
+/presentation "Introduction to Rust" 6 slides dark en
 ```
 
 ### Arguments
