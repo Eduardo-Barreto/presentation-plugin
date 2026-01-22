@@ -9,7 +9,10 @@
   "plugins": [
     {
       "name": "presentation",
-      "source": ".",
+      "source": {
+        "source": "relative",
+        "path": "."
+      },
       "description": "Generate HTML single-file presentations with dark mode aesthetic",
       "version": "1.0.0"
     }
