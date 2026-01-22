@@ -2,7 +2,7 @@
 
 Generate professional HTML single-file presentations with a Vercel/Apple dark mode aesthetic.
 
-![Demo](assets/demo.gif)
+https://github.com/user-attachments/assets/72a4bc3d-f9b9-4da6-8958-3893379806fd
 
 ## Installation
 
