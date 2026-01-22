@@ -1,0 +1,17 @@
+{
+  "name": "presentation-tools",
+  "owner": {
+    "name": "barreto"
+  },
+  "metadata": {
+    "description": "Tools for creating professional presentations with Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "presentation",
+      "source": ".",
+      "description": "Generate HTML single-file presentations with dark mode aesthetic",
+      "version": "1.0.0"
+    }
+  ]
+}

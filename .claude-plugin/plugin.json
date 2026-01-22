@@ -1,0 +1,18 @@
+{
+  "name": "presentation",
+  "description": "Generate professional HTML single-file presentations with Vercel/Apple dark mode aesthetic. Creates slides with dot grid backgrounds, Geist typography, and smooth animations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "barreto"
+  },
+  "license": "MIT",
+  "keywords": [
+    "presentation",
+    "slides",
+    "html",
+    "dark-mode",
+    "vercel",
+    "design"
+  ],
+  "skills": "./skills/"
+}
